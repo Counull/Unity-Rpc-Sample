@@ -148,7 +148,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 905091b7e3fa25d45a2f747a2e367762, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Url: 'http://[::1]'
+  Url: https://127.0.0.1
   Prot: 50051
 --- !u!4 &279662750
 Transform:
