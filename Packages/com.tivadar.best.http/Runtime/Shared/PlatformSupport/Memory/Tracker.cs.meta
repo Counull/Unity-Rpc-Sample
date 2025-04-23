@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: 258c141187c3a464894a9da73c179d50
+AssetOrigin:
+  serializedVersion: 1
+  productId: 267636
+  packageName: Best HTTP
+  packageVersion: 3.0.15
+  assetPath: Packages/com.tivadar.best.http/Runtime/Shared/PlatformSupport/Memory/Tracker.cs
+  uploadId: 743984
